@@ -1,0 +1,8 @@
+namespace WindowTest
+{
+    [default_interface]
+    runtimeclass BlankWindow : Microsoft.UI.Xaml.Window
+    {
+        BlankWindow();
+    }
+}
